@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "qb9sb3tmraroxgx",
+    "createdAt": "2026-07-07T14:51:47.697Z",
+    "updatedAt": "2026-07-07T14:51:47.733Z",
+    "user": "df30p6ymraqtmf6",
+    "role": "Java Developer",
+    "experienceLevel": "Entry",
+    "status": "in_progress",
+    "questions": [
+      {
+        "question": "Can you introduce yourself and walk me through the key projects on your resume?",
+        "type": "HR",
+        "sampleAnswer": "Certainly. I am a junior software engineer specialized in JavaScript stacks. I recently developed a full-stack e-commerce project leveraging React, Express, and MongoDB, implementing secure JWT authentication, and integrating Stripe payments. I also completed an internship at Tech Solutions where I optimized CSS modules to boost site loading speeds by 25%.",
+        "explanation": "Focus on telling a story, starting from your education, summarizing technical strengths, and explaining how your projects solve specific commercial or user problems."
+      },
+      {
+        "question": "Explain the difference between Virtual DOM and Shadow DOM in frontend development.",
+        "type": "Technical",
+        "sampleAnswer": "The Virtual DOM is a lightweight in-memory representation of the real DOM used by libraries like React to optimize rendering performance by batching updates. The Shadow DOM is a web standard used for encapsulation, allowing developers to isolate DOM tree styles and scopes (such as in Web Components), preventing style leaking.",
+        "explanation": "Showcase that you understand both React internals (Virtual DOM) and native web standards (Shadow DOM)."
+      },
+      {
+        "question": "Write a function in JavaScript to check if a string is a palindrome, ignoring non-alphanumeric characters.",
+        "type": "Coding",
+        "sampleAnswer": "function isPalindrome(str) {\n  const cleanStr = str.toLowerCase().replace(/[^a-z0-9]/g, \"\");\n  return cleanStr === cleanStr.split(\"\").reverse().join(\"\");\n}",
+        "explanation": "Ensure you explain edge cases, regex replacement, and standard array reversal complexity (O(N) time and space)."
+      },
+      {
+        "question": "Imagine our payment gateway fails during a checkout process. How would you design the system to handle this gracefully for the customer?",
+        "type": "Scenario",
+        "sampleAnswer": "I would implement a multi-tiered fallback. On the backend, we should use a message queue (like RabbitMQ) to retry payment logs, while immediately notifying the user of the transient error on the UI. We can prompt the customer to try an alternate payment method, retry after a few seconds, or save their current cart details safely for later, and send a transaction failure email update.",
+        "explanation": "Recruiters want to see structural thinking: UI feedback, API status codes, data persistence, and transaction retry policies."
+      },
+      {
+        "question": "Tell me about a time you encountered a merge conflict or a disagreement with a team member. How did you resolve it?",
+        "type": "Behavioral",
+        "sampleAnswer": "During my internship, a teammate and I worked on overlapping components, which resulted in a massive merge conflict. Instead of force-pushing, we set up a 15-minute quick call to walk through the files together line-by-line, determining the best merge solution, which helped us avoid overriding each other's enhancements and taught us to coordinate branches better.",
+        "explanation": "Use the STAR format: Situation, Task, Action, and Result. Highlight communication and collaboration over ego."
+      }
+    ]
+  }
+]

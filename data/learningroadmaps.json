@@ -1,0 +1,91 @@
+[
+  {
+    "_id": "ltn5q2gmratm4m1",
+    "createdAt": "2026-07-07T15:45:36.217Z",
+    "updatedAt": "2026-07-07T15:45:58.111Z",
+    "user": "df30p6ymraqtmf6",
+    "targetRole": "Java Developer",
+    "progress": 11,
+    "dailyTasks": [
+      {
+        "id": "d1",
+        "task": "Review JavaScript Closures and ES6 modules syntax",
+        "hours": 2,
+        "difficulty": "Medium",
+        "completed": true
+      },
+      {
+        "id": "d2",
+        "task": "Learn TypeScript basic types, interfaces, and configurations",
+        "hours": 3,
+        "difficulty": "Easy",
+        "completed": false
+      },
+      {
+        "id": "d3",
+        "task": "Implement Redux Toolkit store in a basic React UI application",
+        "hours": 4,
+        "difficulty": "Medium",
+        "completed": false
+      },
+      {
+        "id": "d4",
+        "task": "Write unit tests for Express API routers using Jest & Supertest",
+        "hours": 3,
+        "difficulty": "Hard",
+        "completed": false
+      },
+      {
+        "id": "d5",
+        "task": "Configure simple CI/CD workflow with GitHub Actions",
+        "hours": 2,
+        "difficulty": "Medium",
+        "completed": false
+      }
+    ],
+    "weeklyTasks": [
+      {
+        "id": "w1",
+        "week": 1,
+        "topics": [
+          "TypeScript Integration",
+          "Type Definitions"
+        ],
+        "milestone": "Convert React app to clean TypeScript",
+        "completed": false
+      },
+      {
+        "id": "w2",
+        "week": 2,
+        "topics": [
+          "State Management",
+          "Redux Toolkit"
+        ],
+        "milestone": "Integrate global store with async API logic",
+        "completed": false
+      },
+      {
+        "id": "w3",
+        "week": 3,
+        "topics": [
+          "Testing frameworks",
+          "Jest",
+          "Cypress"
+        ],
+        "milestone": "Attain 80% test coverage on backend routes",
+        "completed": false
+      },
+      {
+        "id": "w4",
+        "week": 4,
+        "topics": [
+          "Docker Containers",
+          "CI/CD YAML syntax"
+        ],
+        "milestone": "Containerize and auto-deploy to cloud environment",
+        "completed": false
+      }
+    ],
+    "completedMilestones": []
+  }
+]

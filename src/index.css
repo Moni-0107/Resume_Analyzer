@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-sans antialiased;
+  }
+}
+
+/* Custom Scrollbar Styles for premium feel */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-slate-300 dark:bg-slate-700 rounded-full transition-colors hover:bg-slate-400 dark:hover:bg-slate-600;
+}
+
+/* Glassmorphism styling variables */
+.glass-panel {
+  @apply bg-white/75 dark:bg-slate-900/75 backdrop-blur-md border border-slate-200/50 dark:border-slate-800/50;
+}
+
+.glass-card {
+  @apply bg-white/80 dark:bg-slate-900/80 backdrop-blur-lg border border-slate-200/40 dark:border-slate-800/40 shadow-sm rounded-2xl transition-all duration-200;
+}
+
+.glass-card-hover {
+  @apply hover:shadow-md hover:border-slate-300/60 dark:hover:border-slate-700/60 hover:-translate-y-0.5;
+}
+
+/* Glowing Neon Elements */
+.glow-primary {
+  box-shadow: 0 0 20px -5px rgba(79, 107, 255, 0.4);
+}
+
+.glow-success {
+  box-shadow: 0 0 20px -5px rgba(34, 197, 94, 0.4);
+}

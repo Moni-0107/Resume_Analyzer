@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "qd9o8z1mraroxi0",
+    "createdAt": "2026-07-07T14:51:47.736Z",
+    "updatedAt": "2026-07-07T14:51:47.736Z",
+    "interview": "qb9sb3tmraroxgx",
+    "user": "df30p6ymraqtmf6",
+    "chatHistory": [
+      {
+        "role": "interviewer",
+        "content": "Hello! I am your AI Interviewer. I will guide you through a mock interview for the \"Java Developer\" role. Let's begin. Question 1: Can you introduce yourself and walk me through the key projects on your resume?",
+        "feedback": "",
+        "scores": {
+          "technical": 0,
+          "communication": 0,
+          "grammar": 0
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "515wxgymrarf145",
+    "createdAt": "2026-07-07T14:44:05.861Z",
+    "updatedAt": "2026-07-07T14:44:05.861Z",
+    "resume": "9g45ktbmrar5u0o",
+    "user": "df30p6ymraqtmf6",
+    "summary": "Strong foundational background in web development using JavaScript stacks, with practical project experience but lacking deployment or CI/CD specifications.",
+    "strengths": [
+      "Solid React.js and Node.js backend integration foundations.",
+      "High readability with clean project breakdowns.",
+      "Core certifications completed (AWS, React)."
+    ],
+    "weaknesses": [
+      "Lack of metrics-based achievements (e.g. percentages or figures).",
+      "No mention of automated unit testing (Jest, Cypress, etc.).",
+      "Missing modern cloud deployments detail for self-projects."
+    ],
+    "missingSkills": [
+      "Jest",
+      "TypeScript",
+      "Docker",
+      "CI/CD (GitHub Actions)",
+      "Redux Toolkit"
+    ],
+    "grammarSuggestions": [
+      "In experience: Change \"Collaborated with senior engineers to optimize...\" to \"Collaborated with senior engineering team to design and optimize...\" for a more proactive tone."
+    ],
+    "formattingSuggestions": [
+      "Include a dedicated portfolio link (GitHub, LinkedIn) in the contact header.",
+      "Group skills by category (e.g., Frontend, Backend, Devops) instead of listing them as a single wall of text."
+    ],
+    "industryRecommendations": [
+      "Focus on Javascript-heavy roles (Frontend Developer, React Engineer, Associate Software Engineer).",
+      "Incorporate cloud practitioner keywords prominently in application applications."
+    ],
+    "keywordSuggestions": [
+      "Docker",
+      "TypeScript",
+      "Jest",
+      "RESTful API",
+      "Agile Methodologies",
+      "Single Page Application"
+    ],
+    "actionableTips": [
+      "Add live URLs or GitHub repository links to your E-commerce and other listed projects.",
+      "Quantify results: include sizes of databases managed or response time enhancements in project bullets."
+    ]
+  }
+]

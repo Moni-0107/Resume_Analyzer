@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "9g45ktbmrar5u0o",
+    "createdAt": "2026-07-07T14:36:56.760Z",
+    "updatedAt": "2026-07-07T14:36:56.768Z",
+    "user": "df30p6ymraqtmf6",
+    "originalName": "MONISHA_S_FlowCV_Resume_2026-06-30.pdf",
+    "filePath": "uploads/resumes/resume-1783435016331-506475897.pdf",
+    "fileSize": 66046,
+    "mimeType": "application/pdf",
+    "parsedText": "\n\nMONISHA S\nmonishas823@gmail.com\n \n|\n9344564821\n \n|\nChennai, Tamilnadu 600039\n \n|\nlinkedin.com/in/monisha-selvaraj-a89b58320\n \nObjective\nFinal Year Bachelor of Computer Applications (BCA) student with practical experience in Python programming, SQL, Power BI, MS Excel, \nHTML, CSS, and Data Analytics through internships and academic projects. Strong analytical, communication, and problem-solving skills \nwith a commitment to continuous learning. Looking for an entry-level Software Developer, Python Developer, Data Analyst, or IT \nAssociate role where I can apply my technical knowledge and grow professionally.\nEducation\nBachelor of Computer Application, Dwaraka Doss Goverdhan Doss Vaishnav College\nCGPA : 8.4\n06/2024 – 05/2027\nChennai\nHSC, Bentinck Higher Secondary School for Girls, Chennai\nPercentage : 92.5\n04/2024\nChennai\nExperience\nPython Developer\n•Developed a Stock Market Dashboard using Python for backend processing and HTML, CSS, and \nJavaScript for an interactive and responsive user interface.\n•Built an Image Recognizer application using Python, integrating image processing logic with a user-friendly \nweb interface.\n16/02/2026 –\n16/03/2026\n•Collaborated on full-stack development by connecting Python backend functionality with frontend \ntechnologies, improving debugging, problem-solving, and application development skills.\nProjects\nImage Recognition System\n•Developed an Image Recognition System using Python, Flask, TensorFlow, and OpenCV for real-time image classification.\n•Built a responsive frontend using HTML, CSS, and JavaScript for image upload and prediction display.\n•Integrated MobileNetV2 to classify uploaded images and display the top 3 predictions with confidence scores.\nCertificates\nNCVTE Diploma in Office \nAccounting\nCompleted a diploma in Office \nAccounting, covering \naccounting principles and \noffice administration. Gained \npractical skills in financial \nmanagement, bookkeeping, \nand organizational tasks.\nDiploma in Python \nProgramming\nCompleted a 3-month \nintensive program focused on \nPython fundamentals, software \ndevelopment principles, and \nhands-on project work, \nenhancing practical coding \nskills and problem-solving \nabilities.\nNCVTE Diploma in Web \nDesigning\nCompleted a comprehensive \nprogram covering HTML, \nCSS, JavaScript, UI/UX \nprinciples, and responsive web \ndesign, building strong \nfoundational skills for real-\nworld web development \nprojects.\nTechnical Skills\nProgramming : Python , C, C++, HTML, CSS, JavaScript, Java\nDatabase: SQL\nTools: Microsoft Excel, Microsoft PowerBI ,Video Editing\nSoft Skills\nProblem Solving               \nCritical Thinking \nQuick Learner \nDecision Making \nTime Management                   \nWorkshop\nSkill Camp on CI/CD Pipelines, NoviTech R&D Pvt Ltd\nAttended a 2-hour hands-on session on \"Building Smarter Pipelines: A Deep Dive into CI/CD\" covering \nautomation tools, pipeline optimization, and real-world CI/CD applications, enhancing practical skills in \nContinuous Integration and Deployment.\n04/2025\nLanguages\nEnglishTamilTelugu",
+    "extractedInfo": {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "+1-555-0199",
+      "education": [
+        {
+          "institution": "State University",
+          "degree": "Bachelor of Science",
+          "fieldOfStudy": "Computer Science",
+          "startDate": "2020",
+          "endDate": "2024"
+        }
+      ],
+      "skills": [
+        "JavaScript",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Python",
+        "HTML5",
+        "CSS3",
+        "Git"
+      ],
+      "experience": [
+        {
+          "company": "Tech Solutions Inc",
+          "position": "Frontend Intern",
+          "startDate": "Jun 2023",
+          "endDate": "Dec 2023",
+          "description": "Developed responsive UI modules using React.js and Tailwind CSS. Collaborated with senior engineers to optimize website performance by 25%. Integrated backend REST APIs."
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-commerce Platform",
+          "description": "A full-stack e-commerce web application featuring user authentication, product catalog, shopping cart, and Stripe payment gateway.",
+          "technologies": [
+            "React.js",
+            "Node.js",
+            "MongoDB",
+            "Tailwind CSS"
+          ]
+        }
+      ],
+      "certifications": [
+        "AWS Certified Cloud Practitioner",
+        "React Developer Certification"
+      ],
+      "languages": [
+        "English (Fluent)",
+        "Spanish (Basic)"
+      ]
+    }
+  }
+]

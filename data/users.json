@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "df30p6ymraqtmf6",
+    "createdAt": "2026-07-07T14:27:27.042Z",
+    "updatedAt": "2026-07-07T14:27:27.045Z",
+    "name": "Monisha S",
+    "email": "moni@gmail.com",
+    "password": "$2a$10$UJbfMcTbih3NFLwzan580eZmfzigiQd3mthrb4Yv2KNrxZDXMMtXu",
+    "targetRole": "Java Developer",
+    "experienceLevel": "Entry"
+  },
+  {
+    "_id": "3s18xp9mraquhp5",
+    "createdAt": "2026-07-07T14:28:07.577Z",
+    "updatedAt": "2026-07-07T14:28:07.579Z",
+    "name": "Administrator",
+    "email": "admin@platform.com",
+    "password": "$2a$10$a9xvD9xdS3Wywx1y2wgGTeYolKBxBS8kchGiy5VBiRaFswWxeTEO2",
+    "role": "admin",
+    "targetRole": "CTO",
+    "experienceLevel": "Senior",
+    "skills": [
+      "Management",
+      "System Design",
+      "Recruiting"
+    ]
+  },
+  {
+    "_id": "y4wdzalmraquhtk",
+    "createdAt": "2026-07-07T14:28:07.736Z",
+    "updatedAt": "2026-07-07T14:28:07.736Z",
+    "name": "John Candidate",
+    "email": "user@platform.com",
+    "password": "$2a$10$aaBHi9bcmUWsqF2Ps/.X5eIpJs9QPvTbc43JWIRtwBH8DfnK.ggoK",
+    "role": "user",
+    "targetRole": "Full Stack Developer",
+    "experienceLevel": "Entry",
+    "skills": [
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "HTML5",
+      "CSS3"
+    ]
+  }
+]

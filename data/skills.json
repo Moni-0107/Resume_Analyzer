@@ -1,0 +1,59 @@
+[
+  {
+    "_id": "3pvyanymrarfhwo",
+    "createdAt": "2026-07-07T14:44:27.624Z",
+    "updatedAt": "2026-07-07T14:44:27.624Z",
+    "roleName": "Java Developer",
+    "requiredSkills": [
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "HTML5",
+      "CSS3",
+      "Git",
+      "TypeScript",
+      "Redux Toolkit",
+      "Jest/Testing Library",
+      "Docker",
+      "AWS Deployment",
+      "GraphQL"
+    ],
+    "recommendedCertifications": [
+      "AWS Certified Developer - Associate",
+      "Meta Front-End Developer Professional Certificate"
+    ],
+    "learningRoadmap": [
+      {
+        "phase": "Phase 1: Advanced Frontend & State Management",
+        "topic": "TypeScript, Redux Toolkit, and Performance Optimization",
+        "resources": [
+          "TypeScript Deep Dive guide",
+          "Official Redux Toolkit Tutorial",
+          "Frontend Masters Advanced React"
+        ],
+        "duration": "3 weeks"
+      },
+      {
+        "phase": "Phase 2: Testing & DevOps Foundations",
+        "topic": "Testing with Jest, Cypress, and Containerization using Docker",
+        "resources": [
+          "Traversy Media Jest Crash Course",
+          "Docker Mastery on Udemy",
+          "GitHub Actions workflow guides"
+        ],
+        "duration": "3 weeks"
+      },
+      {
+        "phase": "Phase 3: Cloud & GraphQL",
+        "topic": "AWS Amplify/EC2 deployments and GraphQL Client-Server integrations",
+        "resources": [
+          "AWS Cloud Practitioner Essentials",
+          "Apollo GraphQL official tutorials"
+        ],
+        "duration": "2 weeks"
+      }
+    ]
+  }
+]

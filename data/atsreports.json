@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "cj4zd5smrarejof",
+    "createdAt": "2026-07-07T14:43:43.263Z",
+    "updatedAt": "2026-07-07T14:43:43.263Z",
+    "resume": "9g45ktbmrar5u0o",
+    "user": "df30p6ymraqtmf6",
+    "overallScore": 82,
+    "keywordScore": 72,
+    "formattingScore": 85,
+    "experienceScore": 75,
+    "educationScore": 90,
+    "skillsScore": 70,
+    "missingKeywords": [
+      "TypeScript",
+      "GraphQL",
+      "TailwindCSS",
+      "Webpack",
+      "CI/CD Pipelines"
+    ],
+    "checklist": [
+      {
+        "task": "Add email validation checks in project details",
+        "completed": false
+      },
+      {
+        "task": "Incorporate target role title in header",
+        "completed": false
+      },
+      {
+        "task": "Structure work experience with bullet points beginning with action verbs",
+        "completed": true
+      },
+      {
+        "task": "List technical certifications prominently",
+        "completed": true
+      },
+      {
+        "task": "Replace paragraphs with concise, single-line highlights",
+        "completed": false
+      }
+    ]
+  }
+]
